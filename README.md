@@ -1,4 +1,4 @@
-##My first training with CSS
+# My first training with CSS
 
 This repository stores files prepared by **The Net Ninja** who let me take a first glimpse at CSS in action. 
 
